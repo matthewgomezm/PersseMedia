@@ -9,15 +9,6 @@ export default function AboutPage() {
       </h1>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-start">
-        <div className="relative aspect-[4/5] w-full">
-          <Image
-            src="/perssemedia_logo.png" 
-            alt="Aiden Persse"
-            fill
-            className="object-cover rounded-lg shadow-md"
-          />
-        </div>
-
         <div className="space-y-6 text-lg text-neutral-700 dark:text-neutral-300">
           <p>
             Welcome to Persse Media. I&apos;m Aiden Persse, a photographer dedicated to 

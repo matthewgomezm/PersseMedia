@@ -9,10 +9,6 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Persse Media",
   description: "Aiden Perrse's photography portfolio",
-  icons: {
-    icon: "/perssemedia_logo.png",
-  },
-  
 };
 
 export default function RootLayout({

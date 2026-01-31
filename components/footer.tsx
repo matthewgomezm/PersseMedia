@@ -20,18 +20,6 @@ export default function Footer() {
           </Link>
           <span> All Rights Reserved.</span>
         </span>
-        <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-body sm:mt-0">
-          <li>
-            <Link href="/about" className="hover:underline me-4 md:me-6">
-              About
-            </Link>
-          </li>
-          <li>
-            <Link href="/contact" className="hover:underline">
-              Contact
-            </Link>
-          </li>
-        </ul>
       </div>
     </footer>
   );
